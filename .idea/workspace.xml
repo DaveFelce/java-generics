@@ -6,7 +6,16 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3a06571-eebd-41b5-bc34-877c80180c6e" name="Default Changelist" comment="" />
+    <list default="true" id="d3a06571-eebd-41b5-bc34-877c80180c6e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Generics1/com/example/Generics1/Bear.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Generics1/com/example/Generics1/Bear.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Generics1/com/example/Generics1/Mouse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Generics1/com/example/Generics1/Mouse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Generics1/com/example/Generics1/runGenerics1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/Generics1/generics1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/Generics1/generics1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/Generics1/runGenerics1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/Generics1/runGenerics1.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,13 +29,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1PuHbBlCZR0XBQwFTqpxy40TNSV" />
   <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="Artifacts" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -58,7 +72,7 @@
       <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/Generics1_jar/Generics1.jar" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="ALTERNATIVE_JRE_PATH" value="12" />
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
       <method v="2">
         <option name="BuildArtifacts" enabled="true">
           <artifact name="Generics1:jar" />
@@ -82,6 +96,19 @@
       <updated>1566717129475</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
