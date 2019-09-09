@@ -9,9 +9,9 @@ class Mouse {
 class Bear {
 }
 
-class Generics1<G> {
+class Animal<G> {
     G trapped;
-    List<G> trappedList = new ArrayList<G>();
+//    List<G> trappedList = new ArrayList<G>();
     private String name;
 
     public void snare(G trapped) {
@@ -20,7 +20,8 @@ class Generics1<G> {
 
     public void snareAll(List<G> list) {
         G theName = list.get(0);
-        System.out.println(theName.getName());
+//        System.out.println(theName.getName());
+        System.out.println("Here");
     }
 
     public G release() {
